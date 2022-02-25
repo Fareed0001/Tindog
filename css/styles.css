@@ -1,0 +1,141 @@
+/* Elemental tags */
+body {
+  background-color: #ff1493;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+h3 {
+  padding: 1.5rem 0 0 0;
+  font-weight: bold;
+}
+
+p {
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+
+/* Nav-bar */
+
+.top {
+  padding: 3rem 10rem 0;
+  margin-bottom: -100px;
+}
+
+.tindog-nav {
+  padding-right: 70%;
+}
+
+/* Title */
+
+.tindog-text {
+  text-align: left;
+  font-size: 9rem;
+  padding-bottom: 2;
+  font-weight: bolder;
+}
+
+.tindog-img {
+  width: 200;
+  height: 450;
+  transform: rotate(17deg);
+  position: relative;
+  top: 3px;
+  left: 50px;
+  z-index: -1;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+  padding: 0.5rem 1rem;
+  font-size: 2rem;
+  line-height: 1.5;
+  border-radius: 0.5rem;
+}
+
+.download {
+  margin: 5rem 2rem 0 0;
+}
+
+/* Features */
+
+.container-fluid {
+  background-color: #f0f8ff;
+  padding: 100px 0;
+}
+
+.fa-4x {
+  color: #ff1493;
+}
+
+/* Testimonials */
+
+.dog-div {
+  padding: 50px 100px;
+}
+
+.dog-div-img {
+  border-radius: 50%;
+  margin: 20px;
+  width: 100px;
+  height: 100px;
+}
+
+/* Press */
+
+#press {
+  padding: 0 0 50px;
+}
+
+.press {
+  padding: 0 10px;
+}
+
+/* Pricing */
+
+#pricing {
+  background-color: #f0f8ff;
+  padding: 40px;
+}
+
+.pricing-h2 {
+  padding: 0 0 20px;
+}
+
+.card {
+  display: inline-block;
+  padding: 10px;
+  margin: 10px 15px;
+}
+
+/* Last-div */
+
+.last-div {
+  padding: 50px 50px 100px;
+}
+
+.last-div-h3 {
+  font-size: 4.5rem;
+  color: #f0f8ff;
+  padding: 0 0 50px;
+}
+
+.last-div-button {
+  background-color: #f0f8ff;
+  margin: 0 15px;
+}
+
+/* Footer */
+
+#footer {
+  background-color: #f0f8ff;
+  padding: 100px 0;
+}
+
+.footer-icon {
+  margin: 10px 10px;
+}
